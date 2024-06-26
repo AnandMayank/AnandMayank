@@ -1,5 +1,13 @@
-## Hi there 👋
-
+# About ME 
+Hi guys , 
+I'm Mayank Anand a fresher at IIIT Allahabad , IT branch and is going to start the process of learning C.S with you all. 
+I'm currently learning C language . 
+I'm completely new to this world but I have quite of interest and was eager to learn it from a while .
+I did previously learnt Latex language which was quite basic which I used while making document or pdf file's for physics . 
+Yeah u guessed right , I have much interest in physics too.
+Please guide me to this new journey . I am ready for every guidance of yours ! . 
+For reaching me you can contact me to my Discord Id mayanka9376 .
+I will just give my best and enjoy the process .
 <!--
 **AnandMayank/AnandMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
