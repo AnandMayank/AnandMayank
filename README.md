@@ -1,4 +1,4 @@
-# About ME 
+# About Me
 Hi guys , 
 I'm Mayank Anand a fresher at IIIT Allahabad , IT branch and is going to start the process of learning C.S with you all. 
 I'm currently learning C language . 
