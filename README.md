@@ -1,13 +1,11 @@
 # About Me
-Hi guys , 
-I'm Mayank Anand a fresher at IIIT Allahabad , IT branch and is going to start the process of learning C.S with you all. 
-I'm currently learning C language . 
-I'm completely new to this world but I have quite of interest and was eager to learn it from a while .
-I did previously learnt Latex language which was quite basic which I used while making document or pdf file's for physics . 
-Yeah u guessed right , I have much interest in physics too.
-Please guide me to this new journey . I am ready for every guidance of yours ! . 
-For reaching me you can contact me to my Discord Id mayanka9376 .
-I will just give my best and enjoy the process .
+I am a passionate undergraduate CS student from IIIT Allahabad with a deep interest in research work, particularly in the Medical Robotics field. What really fascinates me is optimization problems - an interest that first developed through my studies in physics and has now led me to machine learning and its various applications.
+
+I'm especially drawn to the intersection of computer vision advancements in robotics and the medical sector. From medical robotics surgery to diagnostic imaging technologies, I find these applications both intellectually stimulating and meaningful in their potential impact.
+
+My academic journey began with physics and programming fundamentals, including experience with LaTeX for technical documentation. Now, I'm expanding my skills in computer science while maintaining my focus on how these technologies can advance healthcare and medical interventions.
+
+For collaboration or discussion opportunities, feel free to reach me on Discord: mayanka9376. I'm committed to giving my best to this field and enjoying the learning process along the way.
 <!--
 **AnandMayank/AnandMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
