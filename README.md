@@ -1,22 +1,72 @@
-# About Me
-I am a passionate undergraduate CS student from IIIT Allahabad with a deep interest in research work, particularly in the Medical Robotics field. What really fascinates me is optimization problems - an interest that first developed through my studies in physics and has now led me to machine learning and its various applications.
+Hi, I’m Mayank Anand 👋  
 
-I'm especially drawn to the intersection of computer vision advancements in robotics and the medical sector. From medical robotics surgery to diagnostic imaging technologies, I find these applications both intellectually stimulating and meaningful in their potential impact.
+🎓 I’m a Computer Science undergraduate at the **Indian Institute of Information Technology, Allahabad (IIIT-A)**, pursuing a B.Tech in Information Technology (2024–2028).  
 
-My academic journey began with physics and programming fundamentals, including experience with LaTeX for technical documentation. Now, I'm expanding my skills in computer science while maintaining my focus on how these technologies can advance healthcare and medical interventions.
+I’m deeply interested in building intelligent systems at the intersection of **Robotics, Computer Vision, and Medical AI**, with a strong inclination toward optimization, spatiotemporal modeling, and decision-making under uncertainty. My work is research-driven, application-focused, and oriented toward real-world clinical impact.
 
-For collaboration or discussion opportunities, feel free to reach me on Discord: mayanka9376. I'm committed to giving my best to this field and enjoying the learning process along the way.
-<!--
-**AnandMayank/AnandMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driving Thought  
 
-Here are some ideas to get you started:
+    "Understanding motion, uncertainty, and intelligence in the physical world to build safer, smarter medical AI systems."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I’m currently focused on  
+
+- Medical Robotics & Embodied AI  
+- 3D Freehand Ultrasound Reconstruction  
+- Spatiotemporal Vision & Articulated Motion  
+- Uncertainty-aware perception & decision-making  
+- Reinforcement Learning for robotic navigation  
+- Multimodal reasoning for healthcare applications  
+
+🛠️ Technical Skills  
+
+Languages  
+Python, C++, C, JavaScript  
+
+ML & AI  
+PyTorch, TensorFlow, OpenCV, Scikit-learn  
+MuJoCo, ROS2, Gazebo  
+LangChain, LangGraph, LLM-based agents  
+
+Robotics & Simulation  
+ROS2, RViz, MuJoCo, SlicerROS2  
+
+Data & Dev  
+Git, Docker, Flask, MongoDB, SQL  
+Matplotlib, NumPy, Pandas  
+
+🔬 Research & Achievements  
+
+- 📄 **First-author paper accepted at AAAI 2026 (AIMedHealth, PMLR)**  
+  *UltrasODM: A Dual-Stream Optical-Flow–Mamba Network for 3D Freehand Ultrasound Reconstruction*  
+- 🧠 Working on articulated spatiotemporal tracking and reasoning at **CIR, IIIT-A**  
+- 🤖 Developed RL-based ultrasound navigation for medical imaging  
+- 🗣️ Built multimodal mental-health assessment systems with the **Indian Army**  
+- 📊 Working on agentic AI + multimodal datasets for healthcare at **IIT Patna**  
+
+🌱 My Research Journey  
+
+I began with physics and optimization, which naturally led me to machine learning. My early work focused on **RL-based ultrasound navigation**, helping a virtual probe reach clinically meaningful views.  
+
+This evolved into **3D freehand ultrasound reconstruction**, where I tackled motion drift, brightness variation, and uncertainty under real clinical constraints. My current work blends:  
+
+- Vision (flow, tracking, reconstruction)  
+- Robotics (kinematics, trajectory prediction)  
+- AI (uncertainty, reasoning, decision-making)  
+
+I am especially excited about **embodied medical AI**, digital twins, and human-in-the-loop clinical systems that assist doctors rather than replace them.
+
+🤝 What I’m looking for  
+
+I’m open to research collaborations, internships, and projects in:  
+
+- Medical AI  
+- Embodied Robotics  
+- Spatiotemporal Vision  
+- Surgical AI & Digital Twins  
+
+📬 Reach me  
+
+📧 Email: anandmayank698@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mayank-anand-480741231  
+💻 GitHub: https://github.com/AnandMayank  
+💬 Discord: mayanka9376  
