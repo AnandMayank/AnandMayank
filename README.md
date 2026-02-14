@@ -37,7 +37,7 @@ Matplotlib, NumPy, Pandas
 🔬 Research & Achievements  
 
 - 📄 **UltrasODM: A Dual-Stream Optical-Flow–Mamba Network for 3D Freehand Ultrasound Reconstruction**
-  *Accepted at AAAI 2026 (AIMedHealth Workshop, PMLR)*  
+  *Accepted at AAAI 2026 (AIMedHealth Program, PMLR)*  
   🔗 https://arxiv.org/abs/2512.07756v1
 - 🧠 Working on articulated spatiotemporal tracking and reasoning at **CIR, IIIT-A**  
 - 🤖 Developed RL-based ultrasound navigation for medical imaging  
