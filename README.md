@@ -37,7 +37,7 @@ Matplotlib, NumPy, Pandas
 🔬 Research & Achievements  
 
 - 📄 **QueST: Persistent Queries as Semantic Monitors for Drift Suppression in Long-Horizon Tracking**
-  *Accepted at ICLR 2026 (CAO Workshop)*
+  *Accepted at ICLR 2026   (CAO Workshop)*
 - 📄 **HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation**
   *Accepted at ACL 2026*   
 - 📄 **UltrasODM: A Dual-Stream Optical-Flow–Mamba Network for 3D Freehand Ultrasound Reconstruction**
