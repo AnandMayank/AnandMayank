@@ -39,7 +39,7 @@ Matplotlib, NumPy, Pandas
 - 📄 **QueST: Persistent Queries as Semantic Monitors for Drift Suppression in Long-Horizon Tracking**
   *Accepted at ICLR 2026   (CAO Workshop)*
 - 📄 **HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation**
-  *Accepted at ACL 2026*   
+  *Accepted at ACL Main 2026*   
 - 📄 **UltrasODM: A Dual-Stream Optical-Flow–Mamba Network for 3D Freehand Ultrasound Reconstruction**
   *Accepted at AAAI 2026 (AIMedHealth Program, PMLR)*  
   🔗 https://arxiv.org/abs/2512.07756v1
